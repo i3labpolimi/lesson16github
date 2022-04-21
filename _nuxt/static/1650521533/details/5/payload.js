@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/details/5", {data:[{name:"Cat 5",breed:"Maine Coon",img:"https:\u002F\u002Ffs.i3lab.group\u002Fhypermedia\u002Fcats\u002Fmaine-coon.jpg",description:"Details about cat 5"}],fetch:{},mutations:void 0});
